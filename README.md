@@ -2,7 +2,7 @@
 
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2022 Goals: Learn NodeJS, Express, Mongodb and some more if possible. Trying to get to work in the summer of 2022 💪
+- 💪 2022 Goals: Learn NodeJS, Express, Mongodb and some more if possible. Trying to get to work in 2022 💪
 - ⭐: Nothing is impossible 😅
 
 ### :zap: GitHub Stats
